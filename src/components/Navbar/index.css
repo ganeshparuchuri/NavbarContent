@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.navbar-container {
+  background-color: #ffffff;
+  height: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #dcdcdc;
+}
+.navbar-container-dark {
+  background-color: #333333;
+}
+.light-theme-color {
+  color: #171f46;
+  font-weight: bold;
+}
+.dark-theme-color {
+  color: #ffffff;
+}
+.ul-list {
+  width: 10%;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.logo-website {
+  width: 40px;
+  margin-left: 20px;
+}
+.btn-class {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.links {
+  text-decoration: none;
+}
